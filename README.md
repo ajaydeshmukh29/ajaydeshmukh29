@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ajay Deshmukh
 
-**E&TC Engineer → IT/Software Developer** | Pune, Maharashtra
+**E&TC Engineer → Software Developer** | Pune, Maharashtra
 
-Transitioning from Electronics & Telecommunication into Software Development.  
+An adaptable engineer with a rigorous foundation in multi-paradigm programming and systems thinking. Combining an Electronics background with robust software development practices to build clean, efficient, and maintainable code. 
 Currently leveling up in **C# & JavaScript** + building a strong foundation with C, C++, Java & Python.
 
 `Open to SDE roles` `Fresher` 
@@ -17,7 +17,6 @@ Currently leveling up in **C# & JavaScript** + building a strong foundation with
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
