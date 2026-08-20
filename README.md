@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ajay Deshmukh
+#  Hi, I'm Ajay Deshmukh
 
 **E&TC Engineer → Software Developer** | Pune, Maharashtra
 
@@ -38,11 +38,7 @@ Currently leveling up in **C# & JavaScript** + building a strong foundation with
 
 ---
 
-## 🔥 Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ajaydeshmukh29&theme=github-dark-blue&hide_border=true)
-
----
 
 ## 📫 Connect with me
 
