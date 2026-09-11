@@ -31,14 +31,7 @@ Currently deepening my expertise in **C# and JavaScript**, while maintaining a s
 - **Data Structures & Algorithms (C/C++)** — arrays, pointers, and OOP fundamentals
 - **Competitive Programming** — building problem-solving fundamentals
 
----
 
-## 📊 GitHub Stats
-
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajaydeshmukh29&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaydeshmukh29&layout=compact&theme=github_dark&hide_border=true)
-
----
 
 ## 📫 Connect With Me
 
