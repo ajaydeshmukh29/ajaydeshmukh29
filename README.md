@@ -1,4 +1,4 @@
-# Hi, I'm Ajay Deshmukh 👋
+# Hi, I'm Ajay Deshmukh 
 
 **Electronics & Telecommunication Engineer → Software Developer**
 📍 Pune, Maharashtra
