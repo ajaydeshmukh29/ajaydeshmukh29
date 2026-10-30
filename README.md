@@ -1,7 +1,7 @@
 # Ajay Deshmukh 
 
 **Electronics & Telecommunication Engineer → Software Developer**
- Pune, Maharashtra
+ | Pune, Maharashtra
 
 An adaptable engineer with a rigorous foundation in multi-paradigm programming and systems thinking. I combine an electronics background with strong software development practices to build clean, efficient, and maintainable code.
 
