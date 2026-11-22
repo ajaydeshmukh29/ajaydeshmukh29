@@ -1,4 +1,4 @@
-# Ajay Deshmukh 
+# Ajay Dnyaneshwar Deshmukh 
 
 **Electronics & Telecommunication Engineer → Software Developer**
  | Pune, Maharashtra
