@@ -25,8 +25,8 @@ Currently deepening my expertise in **C# and JavaScript**, while maintaining a s
 ---
 
 ## 📚 Currently Learning
-
-- **JavaScript** — DOM manipulation, ES6+, and asynchronous programming (async/await)
+- Artificial Intelligence and Machine Learning (AI/ML)
+- DevOps and Linux(Fedora) Operating System
 - **Data Structures & Algorithms (C/C++)** — arrays, pointers, and OOP fundamentals
 - **Competitive Programming** — building problem-solving fundamentals
 
