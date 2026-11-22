@@ -26,7 +26,6 @@ Currently deepening my expertise in **C# and JavaScript**, while maintaining a s
 
 ## 📚 Currently Learning
 
-- **C#** — .NET ecosystem and object-oriented design principles
 - **JavaScript** — DOM manipulation, ES6+, and asynchronous programming (async/await)
 - **Data Structures & Algorithms (C/C++)** — arrays, pointers, and OOP fundamentals
 - **Competitive Programming** — building problem-solving fundamentals
